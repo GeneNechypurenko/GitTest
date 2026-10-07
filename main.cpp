@@ -154,7 +154,17 @@ int main()
 
 	cout << "Vladimir" << endl;
 
+	cout << "hello Hello Hello" << endl;
 	cout << "Hello World!" << endl;
+	cout << "Всем привет !" << endl;
+
+	cout << "Hello Eugene!" << endl;
+	cout << "Hello Viktor!" << endl;
+	cout << "Hello from Dmytro\n";
+
+	cout << "Hello Liudmyla!" << endl;
+
+	cout << "Eugene" << endl;
 
 	return 0;
 }
