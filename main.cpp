@@ -159,11 +159,12 @@ int main()
 	cout << "Hello Eugene!" << endl;
 	cout << "Hello Viktor!" << endl;
 	cout << "Hello from Dmytro\n";
+	cout << "Hello from Vadim\n";
 
 	cout << "Hello from Viktor 2\n";
 
 	cout << "Hello Liudmyla!" << endl;
-
+	cout << "Мое имя Г Е О Р Г И й" << endl;
 	cout << "Eugene" << endl;
 
 	return 0;
