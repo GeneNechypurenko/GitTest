@@ -154,6 +154,8 @@ int main()
 
 	cout << "Hello World!" << endl;
 
+	cout << "Hello Eugene!" << endl;
+
 	return 0;
 }
 
