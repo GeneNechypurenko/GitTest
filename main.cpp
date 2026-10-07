@@ -162,6 +162,10 @@ int main()
 
 	cout << "Hello from Viktor 2\n";
 
+	cout << "Hello Liudmyla!" << endl;
+
+	cout << "Eugene" << endl;
+
 	return 0;
 }
 
