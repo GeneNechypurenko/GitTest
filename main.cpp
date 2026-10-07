@@ -153,6 +153,7 @@ int main()
 	SetConsoleOutputCP(65001);
 
 	cout << "Hello World!" << endl;
+	cout << "Hello Viktor!" << endl;
 
 	return 0;
 }
