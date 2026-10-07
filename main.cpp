@@ -158,6 +158,7 @@ int main()
 
 	cout << "Hello Eugene!" << endl;
 	cout << "Hello Viktor!" << endl;
+	cout << "Hello from Dmytro\n";
 
 	return 0;
 }
