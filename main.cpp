@@ -156,6 +156,7 @@ int main()
 	cout << "Всем привет !" << endl;
 
 	cout << "Hello Eugene!" << endl;
+	cout << "Hello Viktor!" << endl;
 
 	return 0;
 }
