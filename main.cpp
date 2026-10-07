@@ -153,6 +153,13 @@ int main()
 	SetConsoleOutputCP(65001);
 
 	cout << "Hello World!" << endl;
+<<<<<<< Updated upstream
+=======
+	cout << "Всем привет !" << endl;
+
+	cout << "Hello Eugene!" << endl;
+	cout << "Hi,was geht Eugene?" << endl;
+>>>>>>> Stashed changes
 
 	return 0;
 }
