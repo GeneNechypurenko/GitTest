@@ -161,6 +161,9 @@ int main()
 	cout << "Hello from Dmytro\n";
 
 	cout << "Hello Liudmyla!" << endl;
+
+	cout << "Eugene" << endl;
+
 	return 0;
 }
 
