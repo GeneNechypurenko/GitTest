@@ -167,7 +167,7 @@ int main()
 	cout << "Hello from Viktor 2\n";
 
 	cout << "Hello Liudmyla!" << endl;
-
+	cout << "Мое имя Г Е О Р Г И й" << endl;
 	cout << "Eugene" << endl;
 
 	return 0;
