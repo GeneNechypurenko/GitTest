@@ -152,8 +152,8 @@ int main()
 	SetConsoleCP(65001);
 	SetConsoleOutputCP(65001);
 
-
 	cout << "Vladimir" << endl;
+	
 	cout << "hello Hello Hello" << endl;
 
 	cout << "Hello World!" << endl;
@@ -166,6 +166,7 @@ int main()
 	cout << "Hello from Vadim\n";
 	cout << "Hello from Viktor 2\n";
 	cout << "Hello Liudmyla!" << endl;
+
 	cout << "Eugene" << endl;
 	cout << "Liudmyla!" << endl;
 	return 0;
