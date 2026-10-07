@@ -170,6 +170,9 @@ int main()
 	cout << "Мое имя Г Е О Р Г И й" << endl;
 	cout << "Eugene" << endl;
 
+
+	cout << "New feature to review" << endl;
+
 	return 0;
 }
 
