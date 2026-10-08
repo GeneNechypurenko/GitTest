@@ -174,6 +174,7 @@ int main()
 	cout << "New feature to review" << endl;
 
 	cout << "+" << endl;
+	cout << "+" << endl;
 
 	return 0;
 }
